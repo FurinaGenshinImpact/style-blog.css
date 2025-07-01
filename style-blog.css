@@ -40,11 +40,3 @@ header {
     border: 1px solid #ececec;
     min-width: 0;
 }
-.footer p{
-    background: #3874f2;
-    color: #fff;
-    text-align: center;
-    padding: 18px 0;
-    margin-top: 38px;
-    letter-spacing: 1px;
-}

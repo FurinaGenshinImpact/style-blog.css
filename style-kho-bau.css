@@ -1,0 +1,25 @@
+body{
+  background-color:#f4f4f4 ;
+}
+#main-title{
+  text-align: center;
+  color: navy;
+}
+.intro{
+  font-style: italic;
+}
+.treasure-chest li{
+  background-color: lightyellow;
+}
+.special-item{
+  font-weight: bold;
+}
+p + h2{
+  border-top:dashed gray;
+}
+main > h2{
+  color: green;
+}
+footer p span{
+  color: purple;
+}

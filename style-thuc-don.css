@@ -1,0 +1,29 @@
+#menu-header h1{
+    color: #6d4c41;
+}
+.slogan{
+    font-style: italic;
+    color: #757575;
+}
+.menu-section h2{
+    border-bottom:solid orange;
+}
+ul,ol{
+    list-style-type: none;
+}
+li[data-special="best-seller"]{
+  background-color: #ffcc80;
+}
+ul > li:first-child{
+    font-weight: bold
+}
+ol > li:first-child{
+    font-weight: bold
+}
+h2 + ul, h2 + ol{
+    margin-top:30px
+}
+a{
+    color: green;
+    text-decoration: none;
+}

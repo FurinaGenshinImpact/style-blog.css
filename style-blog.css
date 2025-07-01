@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10;
+    background-color:bisque ;
+}
+div.main-containers{
+    display: flex;
+    gap: 30px;
+}
+.main-post{
+    width: 70%;
+}
+.sidebar{
+    width: 30%;
+}

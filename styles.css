@@ -1,0 +1,32 @@
+body {
+  background: #fec7f7;
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+}
+.game-card {
+  width: 320px;
+  background: #fff;
+  border-radius:20px;
+  overflow: hidden;
+  transition: 0.5s;
+}
+.game-card:hover {
+  transform: translateY(-12px);
+  box-shadow: 0 10px 30px rgb(255, 0, 0);
+}
+img { width: 100%; }
+.card-content { padding: 30px; }
+.tags { display: flex; gap: 10px;}
+.tags span {
+  background: #f97777;
+  padding: 4px 8px;
+}
+.buy-button {
+  display: block;
+  text-align: center;
+  background:  #f97777;
+  color: #fff;
+  padding: 10px;
+  border-radius: 8px;
+}

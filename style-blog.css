@@ -40,25 +40,6 @@ header {
     border: 1px solid #ececec;
     min-width: 0;
 }
-
-.sidebar p {
-    margin-bottom: 18px;
-}
-.sidebar ul {
-    list-style: inside disc;
-}
-.sidebar li {
-    margin-bottom: 8px;
-}
-.sidebar a {
-    color: #3874f2;
-    text-decoration: none;
-    transition: color 0.2s;
-}
-.sidebar a:hover {
-    color: #174ca1;
-    text-decoration: underline;
-}
 .footer p{
     background: #3874f2;
     color: #fff;

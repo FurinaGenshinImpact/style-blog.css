@@ -14,10 +14,13 @@ header{
 div.main-containers{
     display: flex;
     gap: 30px;
+    padding: auto;
 }
 .main-post{
     width: 70%;
+    background-color: aqua;
 }
 .sidebar{
     width: 30%;
+    background-color: violet;
 }
